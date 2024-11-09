@@ -13,4 +13,3 @@ This project is a simple slideshow created with HTML, CSS, and JavaScript. It al
 - **CSS** - For styling the slides and creating transition effects.
 - **JavaScript** - For implementing slide navigation and timing functionality.
 
-![Homepage Screenshot](homepage.png)
